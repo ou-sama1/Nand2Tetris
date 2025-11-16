@@ -1,6 +1,6 @@
 # Nand2Tetris — Part 1: Hardware
 
-This repository contains my completed projects for **Part 1** of the *Nand2Tetris* course. The work is organized into 6 modules, each representing a major step in building a functional computer from the ground up with a dedicated assembler, I have designed every component using Logisim, an open source software used to design and simulate logic circuits, therefore able to run the Hack computer and make it execute the code live !
+This repository contains my completed projects for **Part 1** of the *Nand2Tetris* course. The work is organized into 6 modules, each representing a major step in building a functional 16-bit computer from the ground up with a dedicated assembler, I have designed every component using Logisim, an open source software used to design and simulate logic circuits, therefore able to run the Hack computer and make it execute the code live !
 
 Each module includes:
 
@@ -69,7 +69,7 @@ Two assembly programs:
 
 ## 🖥️ Module 5 — Computer Architecture
 
-Builds the complete Hack CPU and integrates it with memory to create a full computer.
+Builds the complete Hack CPU and integrates it with memory to create a full 16-bit computer, with a 32 x 32 screen and a keyboard attached.
 
 **Contents:**
 
